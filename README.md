@@ -1,2 +1,3 @@
 # Snake
-Snake game for school assignment
+Classic snake in javascript!
+
